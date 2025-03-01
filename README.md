@@ -1,6 +1,6 @@
 # 🚀 CRINGE-APP-Backend
 
-This is the backend service for the **Friend Alert App**, a simple social app where users create **friend groups**, invite friends, and send **instant alerts** with a single button press.
+This is the backend service for the **CRINGE App**, a simple social app where users create **friend groups**, invite friends, and send **Cringe alerts** with a single button press.
 
 ---
 
